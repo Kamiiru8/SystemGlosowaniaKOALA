@@ -17,7 +17,7 @@ http://tv.umk.pl/#movie=3489
 <br/><br/>
 
 <b>Aplikacja mobilna:</b><br/>
-<img width="603" alt="app1" src="https://user-images.githubusercontent.com/29763402/28136747-29fda79a-674b-11e7-8f0a-01ffaee23363.png">
+<img width="600" alt="app1" src="https://user-images.githubusercontent.com/29763402/28137008-f5b48804-674b-11e7-9c93-122d21fc4489.png">
 <img width="615" alt="app2" src="https://user-images.githubusercontent.com/29763402/28136906-89694356-674b-11e7-94e1-f3d15756c606.png">
 <br/><br/>
 
