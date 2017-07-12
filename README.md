@@ -2,9 +2,9 @@
 <b>Autorzy:</b> Kamiiru8 + 4 inne osoby<br/>
 <b>Zakres moich prac:</b> Aplikacje mobilne emulujące działanie fizycznego pilota dla systemów Android i iOS<br/>
 <b>Wykorzystane przeze mnie:</b>
-- Język programowania: C#<br/>
-- Środowisko programistyczne: Xamarin Studio<br/>
-- Użyte technologie: ZXing.Net.Mobile, JSON<br/><br/>
+<b>- Język programowania:</b> C#<br/>
+<b>- Środowisko programistyczne:</b> Xamarin Studio<br/>
+<b>- Użyte technologie:</b> ZXing.Net.Mobile, JSON<br/><br/>
 
 
 <b>Opis:</b> Projekt powstał na potrzeby przedmiotu oraz konkursu Programowania Zespołowego Wydziału Matematyki i Informatyki UMK.<br/><br/>
