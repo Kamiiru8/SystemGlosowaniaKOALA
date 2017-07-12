@@ -1,4 +1,4 @@
-<b>Nazwa projektu:</b> System Głosowania Koala<br/>
+<b>Nazwa projektu:</b> System Głosowania KOALA<br/>
 <b>Autorzy:</b> Kamiiru8 + 4 inne osoby<br/><br/>
 
 
