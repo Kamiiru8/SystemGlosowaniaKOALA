@@ -1,5 +1,11 @@
 <b>Nazwa projektu:</b> System Głosowania Koala<br/>
 <b>Autorzy:</b> Kamiiru8 + 4 inne osoby<br/><br/>
+<b>Zakres moich prac:<b> Aplikacje mobilne symulujące działanie fizycznego pilota dla systemów Android i iOS<br/>
+<b>Wykorzystane przeze mnie:<b/></br>
+- Język programowania: C#<br/>
+- Środowisko programistyczne: Xamarin Studio<br/>
+- Użyte technologie: Xamarin Studio
+<b>Wykorzystane przeze mnie technologie:<b/> ZXing.Net.Mobile, JSON<br/><br/>
 
 
 <b>Opis:</b> Projekt powstał na potrzeby przedmiotu oraz konkursu Programowania Zespołowego Wydziału Matematyki i Informatyki UMK.<br/><br/>
