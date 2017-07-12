@@ -9,7 +9,7 @@
 
 <b>Opis:</b> Projekt powstał na potrzeby przedmiotu oraz konkursu Programowania Zespołowego Wydziału Matematyki i Informatyki UMK.<br/><br/>
 
-<b>Link do strony projektu</b><br/>
+<b>Link do strony projektu:</b><br/>
 https://aleks-2.mat.umk.pl/pz2016/zesp05/index.html<br/><br/>
 
 <b>Link do wideoprezentacji:</b><br/>
@@ -17,7 +17,8 @@ http://tv.umk.pl/#movie=3489
 <br/><br/>
 
 <b>Aplikacja mobilna:</b><br/>
-http://tv.umk.pl/#movie=3489
+<img width="603" alt="app1" src="https://user-images.githubusercontent.com/29763402/28136747-29fda79a-674b-11e7-8f0a-01ffaee23363.png">
+<img width="615" alt="app2" src="https://user-images.githubusercontent.com/29763402/28136906-89694356-674b-11e7-94e1-f3d15756c606.png">
 <br/><br/>
 
 <b>Ulotka projektu:</b><br/><br/>
