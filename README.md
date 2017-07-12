@@ -16,7 +16,7 @@ https://aleks-2.mat.umk.pl/pz2016/zesp05/index.html<br/><br/>
 http://tv.umk.pl/#movie=3489
 <br/><br/>
 
-<b>Aplikacja mobilna:</b><br/>
+<b>Aplikacja mobilna:</b><br/><br/>
 <img width="600" alt="app1" src="https://user-images.githubusercontent.com/29763402/28137008-f5b48804-674b-11e7-9c93-122d21fc4489.png">
 <img width="615" alt="app2" src="https://user-images.githubusercontent.com/29763402/28136906-89694356-674b-11e7-94e1-f3d15756c606.png">
 <br/><br/>
