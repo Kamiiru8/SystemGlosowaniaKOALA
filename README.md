@@ -16,6 +16,10 @@ https://aleks-2.mat.umk.pl/pz2016/zesp05/index.html<br/><br/>
 http://tv.umk.pl/#movie=3489
 <br/><br/>
 
+<b>Ulotka projektu:</b><br/><br/>
+![ulotkas](https://user-images.githubusercontent.com/29763402/28135223-be9fbd58-6745-11e7-8be8-9c4dd288f13f.jpg)
+<br/><br/>
+
 <b>Aplikacja mobilna:</b><br/><br/>
 <img width="600" alt="app1" src="https://user-images.githubusercontent.com/29763402/28137008-f5b48804-674b-11e7-9c93-122d21fc4489.png">
 <img width="615" alt="app2" src="https://user-images.githubusercontent.com/29763402/28136906-89694356-674b-11e7-94e1-f3d15756c606.png">
@@ -34,6 +38,3 @@ Sprawdznie, czy istnieje aktyne głosowanie odbywa się z częstotliwiścią jed
 
 - <b>VoteActivity.cs</b> – aktywność reprezentująca ekran głosowania (Rys 5.), (Rys. 6). Ekran przedstawia szesć przycisków – z czego są aktywne tylko te, które są odpowiadają odpowiedzi dostępnej w głosowaniu. Minimalna ilość odpowiedzi w głosowaniu to dwa. Ostatnio przyciśnięty przycisk oznaczany jest obwódką. Za odpowiedź zobowiązującą uważa się ostatnio wybrany przycisk.
 <br/><br/>
-
-<b>Ulotka projektu:</b><br/><br/>
-![ulotkas](https://user-images.githubusercontent.com/29763402/28135223-be9fbd58-6745-11e7-8be8-9c4dd288f13f.jpg)
