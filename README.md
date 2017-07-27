@@ -21,5 +21,12 @@ http://tv.umk.pl/#movie=3489
 <img width="615" alt="app2" src="https://user-images.githubusercontent.com/29763402/28136906-89694356-674b-11e7-94e1-f3d15756c606.png">
 <br/><br/>
 
+<b>Opis aktywności projektu</b><br/>
+- </b>MainActivity.cs</b> – aktywność reprezentująca pierszy ekran apikacji (rys 1.) . Pierwszą rzeczą przy uruchamianiu aplikacji jest sprawdzenie, czy istnieje aktualnie zalogowany użytkownik. Dane użytkownika (imię, nazwisko i numer) zostają zapisane w pamięci lokalnej urządzenia przy użyciu SharedPreferences podczas logowania. Użytkownik jest ciagle zalogowany w aplikacji dopóki nie wyrazi chęci wylogowania poprzez przyciśnięcie przycisku „Wyloguj”. Zapobiega to niechcianemu wylogowaniu się z aplikacji podczas głosowania – np. przypadkowe wyłączenie aplikacji, a nawet po ponownym uruchomienu telefonu użytkownik będzie stale zalogowany. Jeśli głosowanie zakończy się, użytkownik zostaje przeniesiony do ekranu powitalnego (Rys. 4), gdzie oczekuje na rozpoczęcie kolejnego głosowania.
+Jeśli istnieje aktualnie zalogowany użytkownik (w pamięci urządzenia zapisane są dane użytkownika) zostaje wyświetlony ekran powitalny (rys. 4), gdzie użytkownik oczekuje na rozpoczęcie się głosowania.
+Jeśli nie istnieje aktualnie zalogowany użytkownik (brak danych użytkownika w pamięci urządzenia), wtedy zostaje wyświeltony ekran główny aplikacji (rys. 1) z możliwością zlogowania się na dwa sposoby – za pomocą zeskanowania kodu QR (rys. 2) lub wpisania tokenu (rys. 3). W tej klasie została zdefiniowana akcja po przyciśnięciu przycisku „Zeskanuj QR” - bQR oraz przycisku „Wpisz token” - bToken.
+W tej klasie zostają również zapisane dane logowania do pamięci urządzenia, sprawdzany dostęp do połąznia internetowego. Korzystanie z aplikacji wymaga aktywnego połącznia z internetem (metoda public bool CheckInternetConnection() ).
+<br/><br/>
+
 <b>Ulotka projektu:</b><br/><br/>
 ![ulotkas](https://user-images.githubusercontent.com/29763402/28135223-be9fbd58-6745-11e7-8be8-9c4dd288f13f.jpg)
