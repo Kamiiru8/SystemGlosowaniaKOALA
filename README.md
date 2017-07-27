@@ -32,7 +32,7 @@ W tej klasie zostają również zapisane dane logowania do pamięci urządzenia,
 - <b>WelcomeActivity.cs</b> – aktywnośc reprezentująca ekran powitalny (Rys 4.). Na tym ekranie zostają wyświetlone imię i nazwisko zalogowanego użytkownika. Jeśli nie istnieje aktyne głosowanie, użytkownik będzie oczekiwał na jego rozpoczęcie. Jeśli istnieje, zostanie przeniesiony do ekranu głosowania (Rys. 5). 
 Sprawdznie, czy istnieje aktyne głosowanie odbywa się z częstotliwiścią jednej sekundy.
 
-- <b>VoteActivity.cs</b – aktywność reprezentująca ekran głosowania (Rys 5.), (Rys. 6). Ekran przedstawia szesć przycisków – z czego są aktywne tylko te, które są odpowiadają odpowiedzi dostępnej w głosowaniu. Minimalna ilość odpowiedzi w głosowaniu to dwa. Ostatnio przyciśnięty przycisk oznaczany jest obwódką. Za odpowiedź zobowiązującą uważa się ostatnio wybrany przycisk.
+- <b>VoteActivity.cs</b> – aktywność reprezentująca ekran głosowania (Rys 5.), (Rys. 6). Ekran przedstawia szesć przycisków – z czego są aktywne tylko te, które są odpowiadają odpowiedzi dostępnej w głosowaniu. Minimalna ilość odpowiedzi w głosowaniu to dwa. Ostatnio przyciśnięty przycisk oznaczany jest obwódką. Za odpowiedź zobowiązującą uważa się ostatnio wybrany przycisk.
 <br/><br/>
 
 <b>Ulotka projektu:</b><br/><br/>
