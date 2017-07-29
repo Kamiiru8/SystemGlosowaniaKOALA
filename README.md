@@ -33,7 +33,7 @@ Jeśli nie istnieje aktualnie zalogowany użytkownik (brak danych użytkownika w
 - <b>TokenActivity.cs</b> – aktywność reprezentująca ekran tokenu (rys. 3). Tutaj zostaje obsłużona akcja po przyciśnieciu „Zatwierdź”<a target="_blank" href="https://github.com/Kamiiru8/SystemGlosowaniaKoala/blob/master/TokenActivity.cs#L40-#L82"><sup>[1]</sup></a>. Używając tego ekranu użytkownik może wpisać token wygenerowany dla tego użytkownika przez osobę prowadzącą głosowanie. Jeśli użytkownik przepisał poprawnie token, zostanie przeniesiony do ekranu powitalnego (Rys. 4).
 
 - <b>WelcomeActivity.cs</b> – aktywnośc reprezentująca ekran powitalny (Rys 4.). Na tym ekranie zostają wyświetlone imię i nazwisko zalogowanego użytkownika. Jeśli nie istnieje aktyne głosowanie, użytkownik będzie oczekiwał na jego rozpoczęcie. Jeśli istnieje, zostanie przeniesiony do ekranu głosowania (Rys. 5). 
-Sprawdznie, czy istnieje aktyne głosowanie odbywa się z częstotliwiścią jednej sekundy.
+Sprawdznie, czy istnieje aktyne głosowanie odbywa się z częstotliwiścią jednej sekundy - co sekundę zostaje zprawdzona zawartość obiektu JSON<a target="_blank" href="https://github.com/Kamiiru8/SystemGlosowaniaKoala/blob/master/WelcomeActivity.cs#L103-#L129"><sup>[1]</sup></a>.
 
 - <b>VoteActivity.cs</b> – aktywność reprezentująca ekran głosowania (Rys 5.), (Rys. 6). Ekran przedstawia szesć przycisków – z czego są aktywne tylko te, które są odpowiadają odpowiedzi dostępnej w głosowaniu. Minimalna ilość odpowiedzi w głosowaniu to dwa. Ostatnio przyciśnięty przycisk oznaczany jest obwódką. Za odpowiedź zobowiązującą uważa się ostatnio wybrany przycisk.
 <br/><br/>
