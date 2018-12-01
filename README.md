@@ -1,4 +1,4 @@
-<i>Please do not laugh at the quality of my project code. I have learned a lot in Android development since I published this project and I know how poor it looks. 😑</i><br/><br/>
+<i>Please do not laugh at the quality of my project code. I have learned a lot in Android development since I published this project and I know how poor it looks.</i><br/><br/> 😑
 
 <b>Nazwa projektu:</b> System Głosowania Koala<br/>
 <b>Autorzy:</b> Kamiiru8 + 4 inne osoby<br/>
