@@ -1,5 +1,3 @@
-<i>Please do not laugh at the quality of my code. I have learned a lot in Android development since I published this project and I know how poor it looks.</i> 😑<br/><br/>
-
 <b>Nazwa projektu:</b> System Głosowania Koala<br/>
 <b>Autorzy:</b> Kamiiru8 + 4 inne osoby<br/>
 <b>Zakres moich prac:</b> Aplikacje mobilne emulujące działanie fizycznego pilota dla systemów Android i iOS, grafiki<br/>
